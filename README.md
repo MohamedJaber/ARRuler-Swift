@@ -1,7 +1,7 @@
 # caution (the app give you an approximate value and not always accurate)
 # AR-Ruler App
 
-## An app that use augmented reality via camera to measure between two points that the user do, when he touches the screen.
+## An app that uses augmented reality via camera to measure between two points that the user does when he touches the screen.
 
 * Used Augmented Reality.
 * Used a SceneKit.
